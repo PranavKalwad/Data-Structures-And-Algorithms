@@ -16,3 +16,6 @@ File with function implementation.
 
 ordered_list_h:-
 Header file with all the declarations of the functions
+
+swap.c:-
+Swapping two nodes of a linked list without swapping its data.
