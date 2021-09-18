@@ -19,3 +19,6 @@ Header file with all the declarations of the functions
 
 swap.c:-
 Swapping two nodes of a linked list without swapping its data.
+
+circular_linked_list.c:-
+Addition of two integers using a circular linked list.
