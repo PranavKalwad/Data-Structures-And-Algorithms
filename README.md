@@ -26,3 +26,6 @@ Addition of two integers using a circular linked list.
 
 reverse_linked_list.c:
 reversing a singly linked list.
+
+stack_implementation_using_static_array.c:
+Implemntation of a stack using a static array.
