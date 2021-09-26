@@ -24,5 +24,5 @@ circular_linked_list.c:-
 Addition of two integers using a circular linked list.
 
 
-reversed_linked_list.c:
+reverse_linked_list.c:
 reversing a singly linked list.
