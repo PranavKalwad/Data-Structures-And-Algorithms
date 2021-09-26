@@ -22,3 +22,7 @@ Swapping two nodes of a linked list without swapping its data.
 
 circular_linked_list.c:-
 Addition of two integers using a circular linked list.
+
+
+reversed_linked_list.c:
+reversing a singly linked list.
