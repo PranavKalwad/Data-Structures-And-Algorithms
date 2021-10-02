@@ -29,3 +29,30 @@ reversing a singly linked list.
 
 stack_implementation_using_static_array.c:
 Implemntation of a stack using a static array.
+
+queue:
+Implementing a simple queue with arrays
+
+de_queue:
+Implemnting a double ended queue using A doubly linked list.
+
+circular_queue:
+Implementing a circular queue using arrays.
+
+circular_queue_2nd_method:
+Implementing a circular queue using linked list.
+
+eval_postfix.c:
+Evaluation of a postfix expression using a stack.
+
+infix_to_postfix.c:
+Converting an infix expression to postfi expression using a stack.
+
+josephus.c:
+Josephus problem using queue.
+
+priority_queue:
+Priority queue implementation using an array
+
+toh.c:
+Towe of Hanoi problem implementation using recursion.
