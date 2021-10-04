@@ -55,4 +55,7 @@ priority_queue:
 Priority queue implementation using an array
 
 toh.c:
-Towe of Hanoi problem implementation using recursion.
+Tower of Hanoi problem implementation using recursion.
+
+linked_list_stack.c:
+Stack implemented using a singly linked list.
