@@ -59,3 +59,6 @@ Tower of Hanoi problem implementation using recursion.
 
 linked_list_stack.c:
 Stack implemented using a singly linked list.
+
+de_queue.c:
+Double ended queue implemented using arrays
