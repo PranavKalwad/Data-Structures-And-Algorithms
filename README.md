@@ -62,3 +62,8 @@ Stack implemented using a singly linked list.
 
 de_queue.c:
 Double ended queue implemented using arrays
+
+
+bst.c:
+Binary search tree implementation using a linked list.
+
