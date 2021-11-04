@@ -67,3 +67,6 @@ Double ended queue implemented using arrays
 bst.c:
 Binary search tree implementation using a linked list.
 
+bet.c:
+binary Expression tree implementation.
+
