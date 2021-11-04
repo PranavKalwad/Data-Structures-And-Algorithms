@@ -70,3 +70,6 @@ Binary search tree implementation using a linked list.
 bet.c:
 binary Expression tree implementation.
 
+bottom_up.c:
+Implementing a heap using bottom up approach.
+
