@@ -73,3 +73,31 @@ binary Expression tree implementation.
 bottom_up.c:
 Implementing a heap using bottom up approach.
 
+bfs_am_path.c:
+breadth first search using adjacency matrix to find the path between any two vertices of a graph.
+
+
+dfs_connected_unconnected.c:
+depth first search algorithm to check whether the vertices of a graph are connected are not.
+
+
+dfs-am.c:
+depth first search algorithm using adjacency matrix
+
+
+bfs_am.c:
+breadth first search algorithm using adjacency matrix
+
+dfs_am_unconnected-nodes.c:
+depth first search algorithm to traverse all the vertices of a graph.
+
+
+
+
+
+
+
+
+
+
+
