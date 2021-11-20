@@ -77,8 +77,11 @@ bfs_am_path.c:
 breadth first search using adjacency matrix to find the path between any two vertices of a graph.
 
 
-dfs_connected_unconnected.c:
-depth first search algorithm to check whether the vertices of a graph are connected are not.
+dfs_connected_unconnected.c:(for an undirected graph.)
+depth first search algorithm to check whether the vertices of a graph are connected are not.(for an undirected graph.)
+
+
+
 
 
 dfs-am.c:
