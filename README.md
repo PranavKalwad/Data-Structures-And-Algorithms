@@ -81,9 +81,6 @@ dfs_connected_unconnected.c:(for an undirected graph.)
 depth first search algorithm to check whether the vertices of a graph are connected are not.(for an undirected graph.)
 
 
-
-
-
 dfs-am.c:
 depth first search algorithm using adjacency matrix
 
@@ -94,6 +91,8 @@ breadth first search algorithm using adjacency matrix
 dfs_am_unconnected-nodes.c:
 depth first search algorithm to traverse all the vertices of a graph.
 
+dfs_am_compo.c:
+depth first search algorithm to find the number of components of a given graph.
 
 
 
