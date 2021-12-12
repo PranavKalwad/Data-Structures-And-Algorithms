@@ -102,7 +102,8 @@ seperate_chaining.c:
 Implemntation of handling collision in hash table. 
 
 
-
+linear_probing.c:
+Implemntation of handling collision in hash table.
 
 
 
