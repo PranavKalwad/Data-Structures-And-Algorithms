@@ -98,7 +98,8 @@ tries.c:
 Implementation of functions of tries.
 
 
-
+seperate_chaining.c:
+Implemntation of handling collision in hash table. 
 
 
 
