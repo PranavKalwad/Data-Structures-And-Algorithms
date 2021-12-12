@@ -94,6 +94,9 @@ depth first search algorithm to traverse all the vertices of a graph.
 dfs_am_compo.c:
 depth first search algorithm to find the number of components of a given graph.
 
+tries.c:
+Implementation of functions of tries.
+
 
 
 
