@@ -105,6 +105,10 @@ Implemntation of handling collision in hash table.
 linear_probing.c:
 Implemntation of handling collision in hash table.
 
+circular_linked_list_implementation.c:
+Implementation of the functions of a circular linked list.
 
+doubly_linked_list.c:
+Implementation of doubly linked list
 
 
